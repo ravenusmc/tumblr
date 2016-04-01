@@ -1,6 +1,6 @@
 == README
 
-This is a Tumblr Clone. 
+This is a Tumblr Clone. The project is finished and I may or may not put it up on Heroku. If I decide to do it then it is ready to be launched. 
 
 GEMS USED: 
 
