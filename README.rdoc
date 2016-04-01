@@ -4,4 +4,6 @@ This is a Tumblr Clone.
 
 GEMS USED: 
 
+Devise
+
 
